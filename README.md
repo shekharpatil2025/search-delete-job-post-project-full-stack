@@ -100,18 +100,76 @@ http://localhost:3000
 | PUT    | /jobs/{id} | Update job    |
 | DELETE | /jobs/{id} | Delete job    |
 
-## Screenshots
+## Application Screenshots
 
-Add application screenshots here.
+### Login Page
 
-## Future Enhancements
+![Login Page](screenshots/login.png)
 
-* User Authentication
-* Role-Based Access Control
-* Pagination and Sorting
-* Advanced Search Filters
-* Docker Deployment
-* Cloud Deployment
+### Registration Page
+
+![Registration Page](screenshots/register.png)
+
+### Home Page - 
+![Bottom Section](screenshots/start.png)
+![Middle Section](screenshots/middle.png)
+![Bottom Section](screenshots/end.png)
+
+## 👨‍💼 Admin Module
+
+### Admin Dashboard
+
+The Admin Dashboard provides complete control over job postings. Administrators can view all jobs, manage listings, and perform administrative operations.
+
+![Admin Dashboard](screenshots/admin home page.png)
+
+---
+
+### Edit Job Post
+
+Administrators can update existing job details such as title, description, required skills, company information, and other job-related data.
+
+![Edit Job Post](screenshots/admin edit.png)
+
+---
+
+## 🔍 Search Functionality
+
+### Search Jobs
+
+Users can search job postings using keywords, technologies, company names, or job roles. The search feature helps users quickly find relevant opportunities.
+
+![Search Job](screenshots/job search.png)
+
+---
+
+## 🚀 Key Functionalities Demonstrated
+
+- User Registration and Login
+- Role-Based Access (User/Admin)
+- Create Job Post
+- View Job Listings
+- Search Jobs
+- Update Job Details
+- Delete Job Posts
+- Responsive User Interface
+- REST API Integration
+- Database Connectivity
+
+---
+
+## 📈 Future Enhancements
+
+- JWT Authentication
+- Email Notifications
+- Resume Upload Feature
+- Job Application Tracking
+- Advanced Filters
+- Pagination and Sorting
+- Docker Containerization
+- Cloud Deployment (AWS/Render)
+
+---
 
 ## Author
 
