@@ -1,0 +1,19 @@
+target/
+*.class
+*.log
+.idea/
+.vscode/
+.settings/
+.project
+.classpath
+bin/
+.env
+application.properties
+
+
+# Node
+node_modules/
+build/
+dist/
+
+
