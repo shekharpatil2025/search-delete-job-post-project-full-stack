@@ -121,7 +121,7 @@ http://localhost:3000
 
 The Admin Dashboard provides complete control over job postings. Administrators can view all jobs, manage listings, and perform administrative operations.
 
-![Admin Dashboard](screenshots/admin home page.png)
+![Admin Dashboard](screenshots/admin-home-page.png)
 
 ---
 
@@ -129,7 +129,7 @@ The Admin Dashboard provides complete control over job postings. Administrators 
 
 Administrators can update existing job details such as title, description, required skills, company information, and other job-related data.
 
-![Edit Job Post](screenshots/admin edit.png)
+![Edit Job Post](screenshots/admin-edit.png)
 
 ---
 
