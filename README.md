@@ -139,7 +139,7 @@ Administrators can update existing job details such as title, description, requi
 
 Users can search job postings using keywords, technologies, company names, or job roles. The search feature helps users quickly find relevant opportunities.
 
-![Search Job](screenshots/job search.png)
+![Search Job](screenshots/job-search.png)
 
 ---
 
